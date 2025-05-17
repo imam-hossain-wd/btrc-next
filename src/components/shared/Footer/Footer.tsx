@@ -50,7 +50,7 @@ export function Footer() {
             className="space-y-4"
           >
             <h3 className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-teal-400 bg-clip-text text-transparent">
-              Bewarish Center
+              Bewarish Treatment & Rehabilitation Center
             </h3>
             <p className="text-gray-300">
               A sanctuary for abandoned and neglected individuals, restoring dignity and hope through comprehensive care.
@@ -116,11 +116,11 @@ export function Footer() {
             <div className="space-y-3">
               <div className="flex items-center gap-3 text-gray-300">
                 <Mail size={18} className="text-blue-400" />
-                <span>contact@bewarish.org</span>
+                <span>btrc.3205@gmail.com</span>
               </div>
               <div className="flex items-center gap-3 text-gray-300">
                 <Phone size={18} className="text-blue-400" />
-                <span>+880 XXXX XXXXXX</span>
+                <span>+880 1819 832832</span>
               </div>
             </div>
             <div className="pt-4">

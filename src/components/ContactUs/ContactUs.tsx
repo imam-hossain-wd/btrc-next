@@ -43,7 +43,7 @@ export function ContactUs() {
                   </div>
                   <div>
                     <h4 className="font-medium text-gray-900">Email</h4>
-                    <p className="text-gray-600">contact@bewarish.org</p>
+                    <p className="text-gray-600">btrc.3205@gmail.com</p>
                   </div>
                 </div>
                 
@@ -53,8 +53,8 @@ export function ContactUs() {
                   </div>
                   <div>
                     <h4 className="font-medium text-gray-900">Phone</h4>
-                    <p className="text-gray-600">+880 XXXX XXXXXX (Administration)</p>
-                    <p className="text-gray-600">+880 XXXX XXXXXX (Emergency)</p>
+                    <p className="text-gray-600">+880 1819 832832 (Administration)</p>
+                    <p className="text-gray-600">+880 1601 500040  (Emergency)</p>
                   </div>
                 </div>
                 
@@ -64,8 +64,8 @@ export function ContactUs() {
                   </div>
                   <div>
                     <h4 className="font-medium text-gray-900">Address</h4>
-                    <p className="text-gray-600">123 Care Road, Dhaka 1212</p>
-                    <p className="text-gray-600">Bangladesh</p>
+                    <p className="text-gray-600">Omar Faruk Building , Shahidullah Para, Owazdia , </p>
+                    <p className="text-gray-600"> Hathazari, Chattogram ,Bangladesh</p>
                   </div>
                 </div>
                 
@@ -76,7 +76,7 @@ export function ContactUs() {
                   <div>
                     <h4 className="font-medium text-gray-900">Hours</h4>
                     <p className="text-gray-600">24/7 Emergency Services</p>
-                    <p className="text-gray-600">Administration: 9AM - 5PM (Sat-Thu)</p>
+                    <p className="text-gray-600">Administration: 9AM - 6PM (Sat-Fri)</p>
                   </div>
                 </div>
               </div>
